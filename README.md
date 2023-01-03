@@ -18,7 +18,7 @@ A new flutter app for demonstrating Provider demo with movie APIs.
  </table>
 </br>
 
-# IOS Screenshots
+# iOS Screenshots
 
 <table>
   <tr>
