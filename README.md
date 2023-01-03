@@ -1,7 +1,7 @@
 # Provider demo
-A new flutter app for demonstrating drag and drop demo.
+A new flutter app for demonstrating Provider demo with movie APIs.
 
-# Demo
+# Video Preview
 <img src="https://github.com/MarvelApps-Flutter/drag_drop_demo/blob/master/media/gif/demo.gif" height="480px"></td>
 
 # Android Screenshots
