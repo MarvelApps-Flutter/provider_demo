@@ -1,16 +1,32 @@
-# provider_demo
+# Provider demo
+A new flutter app for demonstrating drag and drop demo.
 
-A new Flutter project.
+# Demo
+<img src="https://github.com/MarvelApps-Flutter/drag_drop_demo/blob/master/media/gif/demo.gif" height="480px"></td>
 
-## Getting Started
+# Android Screenshots
 
-This project is a starting point for a Flutter application.
+<table>
+  <tr>
+    <td align="center" valign="center">Home Screen</td>
+    <td align="center" valign="center">Detailed Movie Screen</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/MarvelApps-Flutter/drag_drop_demo/blob/master/media/android/android1.png" height="480px"></td>
+    <td><img src="https://github.com/MarvelApps-Flutter/drag_drop_demo/blob/master/media/android/android2.png" height="480px"></td>
+  </tr>
+ </table>
+</br>
 
-A few resources to get you started if this is your first Flutter project:
+# IOS Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table>
+  <tr>
+     <td align="center" valign="center">Home Screen</td>
+     <td align="center" valign="center">Detailed Movie Screen</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/MarvelApps-Flutter/drag_drop_demo/blob/master/media/ios/ios1.png" height="480px"></td>
+    <td><img src="https://github.com/MarvelApps-Flutter/drag_drop_demo/blob/master/media/ios/ios2.png" height="480px"></td>
+  </tr>
+ </table>
